@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437936699275",
+    "project_id": "tennis-app-bb323",
+    "storage_bucket": "tennis-app-bb323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437936699275:android:5765cb0ebe10424bfb618e",
+        "android_client_info": {
+          "package_name": "com.example.tennis_matchup_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8nhdWEFNo_BHAnDz22GAGxAv7CfjSVjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+name: tennis_matchup_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^5.4.3
+  firebase_auth: ^5.3.1
+  firebase_core: ^3.5.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  flutter_calendar_week: ^3.0.2
+  gap: ^3.0.1
+  google_fonts: ^6.2.1
+  lottie: ^3.1.2
+  shared_preferences: ^2.3.2
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
