@@ -14,9 +14,7 @@ This app is designed to help anyone who wants to play tennis if the weather is s
     - used state management (cubit)
     - MVVM design patterns
 
-  - vedio link:
-     <a href="//drive.google.com/drive/folders/1FvWhkjxuLmeYqIk7EO9UUTklgEDlsGFU"></a>
-
+ 
 
    
 
