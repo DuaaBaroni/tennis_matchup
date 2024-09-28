@@ -6,8 +6,8 @@ This app is designed to help anyone who wants to play tennis if the weather is s
     - firebase auth.
     - firebase core.
     -  cloud firestore.
-    -  
-  #Technologies used:
+    
+  ##- Technologies used:
     - Firebase.
     - used (SharedPrefrences) to cache.
     - used state management (cubit)
