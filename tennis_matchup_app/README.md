@@ -1,4 +1,3 @@
-# tennis_matchup_app
  A new Flutter project.
  # Tennies_app
 This app is designed to help anyone who wants to play tennis if the weather is suitable or not .
